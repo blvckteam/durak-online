@@ -1,6 +1,6 @@
 # Durak Online
 
-Сетевая игра в карты "Дурак". Для GUI использован Kivy. Сделанно для канала [@WANNADEAUTH](t.me/wannadeauth)
+Сетевая игра в карты "Дурак". Для GUI использован Kivy. Сделанно для канала [WANNADEAUTH](t.me/wannadeauth)
 
 
 ![](screenshot.jpg)
